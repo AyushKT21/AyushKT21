@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-<h1 align="center">Hi 👋, I'm Ayushy</h1>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend and wordpress developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkt21" alt="ayushkt21" /></a> </p>
