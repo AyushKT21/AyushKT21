@@ -7,8 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkt21" alt="ayushkt21" /></a> </p>
 
-- 🌱 I’m currently learning **Backend**
-
+- 🌱 I'm a passionate and creative Front end web Developer from Madhya Pradesh, India. I consider myself as a curious and inquisitive person and a continuous learner, so on my spare time I always like to polish my skills by doing some small side projects and try to keep learning new stuff to improve my skill set. In more spare time, I like to play online games.
+  
 - 💬 Ask me about **html, css react.js**
 
 - 📫 How to reach me **ayushtiwari20072001@gmail.com**
