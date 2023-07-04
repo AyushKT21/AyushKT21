@@ -5,7 +5,7 @@
 
 - 🌱 I'm a passionate and creative Front end web Developer from Madhya Pradesh, India. I consider myself as a curious and inquisitive person and a continuous learner, so on my spare time I always like to polish my skills by doing some small side projects and try to keep learning new stuff to improve my skill set. In more spare time, I like to play online games.
   
-- 💬 If want assitance related to **Front-end, react.js or wordpress**
+- 💬 If want assistance related to **Front-end, react.js or wordpress**
 
 - 📫 How you can reach me **ayushtiwari20072001@gmail.com**
 
