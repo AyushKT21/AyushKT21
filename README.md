@@ -1,6 +1,6 @@
 <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend and wordpress developer from India</h3>
+<h3 align="center">A passionate React developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 - 🌱 I'm a passionate and creative Front end web Developer from Madhya Pradesh, India. I consider myself as a curious and inquisitive person and a continuous learner, so on my spare time I always like to polish my skills by doing some small side projects and try to keep learning new stuff to improve my skill set. In more spare time, I like to play online games.
