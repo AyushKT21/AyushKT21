@@ -26,31 +26,31 @@
 
 
 
-
-</p>
----
-## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AyushKT21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKT21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Hi%20👋,%20I'm%20Ayush%20Tiwari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Front-End%20%7C%20React.js%20Developer%20from%20India%20🇮🇳&descAlignY=56&descSize=18" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AyushKT21&theme=tokyonight&hide_border=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=900&color=24C6DC&center=true&vCenter=true&width=650&lines=⚛️+Passionate+React.js+Developer;🎨+Creative+Front-End+Engineer;🚀+Next.js+%7C+Redux+%7C+Tailwind;🧠+Continuous+Learner;🎮+Gamer+in+my+free+time" alt="Typing SVG"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKT21&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=AyushKT21&label=Profile%20Views&color=24c6dc&style=for-the-badge"/>
+  <a href="https://github.com/AyushKT21?tab=followers"><img src="https://img.shields.io/github/followers/AyushKT21?label=Followers&style=for-the-badge&color=302b63&logo=github"/></a>
+  <a href="https://github.com/AyushKT21?tab=repositories&sort=stargazers"><img src="https://img.shields.io/github/stars/AyushKT21?label=Stars&style=for-the-badge&color=f7b733&logo=github"/></a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AyushKT21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </p>
----
-## 🤝 Connect With Me
+<h2>🧑‍💻 About Me</h2>
+<img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding"/>
+<ul>
+  <li>🌱 Passionate &amp; creative <b>Front-End Web Developer</b> from <b>Madhya Pradesh, India</b></li>
+  <li>🔍 Curious, inquisitive and a <b>continuous learner</b></li>
+  <li>🛠️ I polish my skills by building side projects like <a href="https://github.com/AyushKT21/SpeedCheck"><b>SpeedCheck ⚡</b></a></li>
+  <li>💬 Ask me about <b>Front-end, React.js or WordPress</b></li>
+  <li>🎮 In my spare time, I play <b>online games</b></li>
+  <li>📫 Reach me at <a href="mailto:ayushtiwari20072001@gmail.com"><b>ayushtiwari20072001@gmail.com</b></a></li>
+</ul>
+<br clear="right"/>
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/your-x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
 </p>
