@@ -23,13 +23,27 @@
 <ul>
   <li>🌱 Passionate &amp; creative <b>Front-End Web Developer</b> from <b>Madhya Pradesh, India</b></li>
   <li>🔍 Curious, inquisitive and a <b>continuous learner</b></li>
-  <li>🛠️ I polish my skills by building side projects like <a href="https://github.com/AyushKT21/SpeedCheck"><b>SpeedCheck ⚡</b></a></li>
+  <li>🤖 My latest build: <a href="https://ask-ayush.vercel.app/"><b>Ask Ayush — an AI-First Portfolio</b></a> you can chat with!</li>
   <li>💬 Ask me about <b>Front-end, React.js or WordPress</b></li>
   <li>🎮 In my spare time, I play <b>online games</b></li>
   <li>📫 Reach me at <a href="mailto:ayushtiwari20072001@gmail.com"><b>ayushtiwari20072001@gmail.com</b></a></li>
 </ul>
 
 <br clear="right"/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</p>
+
+<h2 align="center">🚀 Featured Project</h2>
+
+<div align="center">
+  <h3>🤖 Ask Ayush — AI-First Portfolio</h3>
+  <p>Don't just scroll through my portfolio — <b>talk to it!</b><br/>An AI-powered portfolio where you can chat and ask anything about my skills, projects and experience.</p>
+  <a href="https://ask-ayush.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-ask--ayush.vercel.app-24c6dc?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <br/><br/>
+  <a href="https://ask-ayush.vercel.app/"><img src="https://img.shields.io/badge/Chat_with_my_AI_Portfolio-Click_Here-ff4b8b?style=for-the-badge&logo=openai&logoColor=white"/></a>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
