@@ -21,7 +21,7 @@
 <img align="right" width="380" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="coding"/>
 
 <ul>
-  <li>🌱 Passionate &amp; creative <b>Front-End Web Developer</b> from <b>Madhya Pradesh, India</b></li>
+  <li>🌱 Passionate &amp; creative <b>Front-End Web Developer</b> from <b>Indore, Madhya Pradesh, India</b></li>
   <li>🔍 Curious, inquisitive and a <b>continuous learner</b></li>
   <li>🤖 My latest build: <a href="https://ask-ayush.vercel.app/"><b>Ask Ayush — an AI-First Portfolio</b></a> you can chat with!</li>
   <li>💬 Ask me about <b>Front-end, React.js or WordPress</b></li>
@@ -83,7 +83,7 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-tiwari-550849226/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayusht21/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/ayushk_tiwari"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
   <a href="https://auth.geeksforgeeks.org/user/ayushtiwari20072001"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="mailto:ayushtiwari20072001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
